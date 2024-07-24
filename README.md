@@ -2,6 +2,9 @@
 
 Welcome to the Springdale Public School website project! This React.js application serves as the official website for Springdale Public School, showcasing the school's features, activities, and important information.
 
+## Live Demo
+Check out the live site: https://school-site-frontend.onrender.com
+
 ## Table of Contents
 
 1. [Technical Requirements](#technical-requirements)
