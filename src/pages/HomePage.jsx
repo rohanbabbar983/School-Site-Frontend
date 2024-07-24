@@ -136,12 +136,12 @@ function HomePage() {
           We are excited to announce that admissions for the upcoming academic year are now open. Join us at Springdale Public School and be a part of our vibrant learning community.
         </p>
         <div className="text-center">
-          <a
+          <Link
             href="/admissions"
             className="bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition duration-300"
           >
             Learn More
-          </a>
+          </Link>
         </div>
       </section>
 
