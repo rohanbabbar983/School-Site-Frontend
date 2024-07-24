@@ -7,6 +7,7 @@ import scienceDay from "../assets/science_exhibition.jpg";
 import culturalDay from "../assets/culturalDay.jpg";
 import springDale from "../assets/springDale.jpg";
 import { FaBook, FaCalendarAlt, FaSchool } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 function HomePage() {
   useEffect(() => {
